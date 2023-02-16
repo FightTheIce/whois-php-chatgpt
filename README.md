@@ -5,12 +5,12 @@ Conversation with ChatGPT to generate a PHP class that queries a whois server.
 
 # Conversation:
 
-### Question: 
+### Question-1: 
 
 can you generate me a php class to query a whois server
 
 
-### Response: 
+### Response-1: 
 
 Sure, here's an example PHP class you can use to query a WHOIS server:
 
